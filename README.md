@@ -1,0 +1,1 @@
+# USTV-custom-sectorfile-for-team-Majula-IVAO-ATC-
