@@ -1,3 +1,4 @@
+[![latest](https://img.shields.io/github/v/release/LevLvovich1/USTV-custom-sectorfile-for-Team-Majula-IVAO-ATC.svg?color=brightgreen)](https://github.com/LevLvovich1/USTV-custom-sectorfile-for-Team-Majula-IVAO-ATC/releases/latest/download/SectorFilesUSTV.7z)
 # НАЖИМАЕТЕ Releases, ЗАТЕМ СКАЧИВАЕТЕ SectorFilesUSTV.7z
 
 Для установки перетащите (с заменой) содержимое архива SectorFilesUSTV.7z (SectorFilesUSTR.7z до версии 3) по пути: Aurora > SectorFiles.
